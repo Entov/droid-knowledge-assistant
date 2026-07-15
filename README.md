@@ -17,7 +17,8 @@ IMPORTANTE NOTE:
 
 This project code is intended for educational and recreational purposes.
 
-Star Wars, Wookieepedia, Fandom, Disney, and Lucasfilm names and properties belong to their respective owners.
+Star Wars, Disney, Wookiepedia and Lucasfilm names and properties belong to their respective owners. 
+
 ---
 
 ## Demo
