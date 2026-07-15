@@ -59,8 +59,8 @@ Sources consulted:
 - Source-aware answers
 - Local vectorstore generation
 - Reproducible ingestion and chunking pipeline
+The project is designed to run locally and does not require a paid API key when using Ollama. Of course, if you hace an API key yo can also use it (instructions are below). 
 
-The project is designed to run locally and does not require a paid API key when using Ollama. Of course, if you have an API key you can also use it. c: 
 ---
 
 ## Repository Structure
