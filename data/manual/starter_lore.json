@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Ahsoka Tano",
+    "category": "Character",
+    "continuity": "Canon",
+    "summary": "Ahsoka Tano was the Jedi Padawan of Anakin Skywalker during the Clone Wars. She later left the Jedi Order and became an independent Force user.",
+    "tags": ["Ahsoka", "Jedi", "Clone Wars", "Anakin Skywalker", "Order 66"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Anakin Skywalker",
+    "category": "Character",
+    "continuity": "Canon",
+    "summary": "Anakin Skywalker was a powerful Jedi Knight trained by Obi-Wan Kenobi. He later fell to the dark side and became Darth Vader.",
+    "tags": ["Anakin", "Darth Vader", "Jedi", "Sith", "Obi-Wan Kenobi"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Darth Vader",
+    "category": "Character",
+    "continuity": "Canon",
+    "summary": "Darth Vader was the Sith identity of Anakin Skywalker after his fall to the dark side. He served the Galactic Empire and Emperor Palpatine.",
+    "tags": ["Darth Vader", "Anakin Skywalker", "Sith", "Empire", "Palpatine"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Obi-Wan Kenobi",
+    "category": "Character",
+    "continuity": "Canon",
+    "summary": "Obi-Wan Kenobi was a Jedi Master who trained Anakin Skywalker and later watched over Luke Skywalker on Tatooine.",
+    "tags": ["Obi-Wan", "Jedi", "Anakin Skywalker", "Luke Skywalker", "Tatooine"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Tatooine",
+    "category": "Planet",
+    "continuity": "Canon",
+    "summary": "Tatooine is a desert planet in the Outer Rim. It is strongly associated with Anakin Skywalker, Luke Skywalker, moisture farms, Jawas, Tusken Raiders, and Hutt influence.",
+    "tags": ["Tatooine", "Outer Rim", "Luke Skywalker", "Anakin Skywalker", "Jabba"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Jedi Order",
+    "category": "Faction",
+    "continuity": "Canon",
+    "summary": "The Jedi Order was an ancient organization of Force users who served as guardians of peace and justice in the Galactic Republic.",
+    "tags": ["Jedi", "Force", "Republic", "Order 66", "Sith"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Sith",
+    "category": "Faction",
+    "continuity": "Canon",
+    "summary": "The Sith were dark side Force users who opposed the Jedi and sought power through passion, conflict, and domination.",
+    "tags": ["Sith", "Dark Side", "Jedi", "Palpatine", "Darth Vader"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Order 66",
+    "category": "Event",
+    "continuity": "Canon",
+    "summary": "Order 66 was the command that led clone troopers to turn against the Jedi, causing the near-destruction of the Jedi Order.",
+    "tags": ["Order 66", "Clone Wars", "Jedi", "Palpatine", "Clone Troopers"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Clone Wars",
+    "category": "Event",
+    "continuity": "Canon",
+    "summary": "The Clone Wars were a galaxy-wide conflict between the Galactic Republic and the Separatist Alliance, secretly manipulated by Darth Sidious.",
+    "tags": ["Clone Wars", "Republic", "Separatists", "Darth Sidious", "Jedi"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  },
+  {
+    "title": "Revan",
+    "category": "Character",
+    "continuity": "Legends",
+    "summary": "Revan is mainly associated with the Legends continuity. Revan was a Jedi who became a Sith Lord and later became connected to major events of the Old Republic era.",
+    "tags": ["Revan", "Legends", "Old Republic", "Jedi", "Sith"],
+    "source": "Manual starter entry inspired by Star Wars lore"
+  }
+]

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.env
+
+data/raw/
+data/index/
+data/vectorstore/
+
+*.pyc
+.DS_Storedata/processed/
